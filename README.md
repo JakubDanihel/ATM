@@ -1,4 +1,4 @@
-# ATM - wip
+# ATM
 ATM v java s moznostami vyberu moznosti
 
 program ma niekolko volieb moznosti:
