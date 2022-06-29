@@ -1,5 +1,6 @@
 # ATM
 ATM v java s moznostami vyberu moznosti
+java: "18.0.1.1" 2022-04-22
 
 program ma niekolko volieb moznosti:
 1. Log in: - zadanie hesla na prihlasenie
